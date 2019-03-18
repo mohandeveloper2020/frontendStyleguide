@@ -1,0 +1,31 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #1B1B25;
+  background: #FFFFFF;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  background: #0F69AF;
+  color: #FFFFFF;
+}
+
+section {
+  width: 70%;
+  margin: 0 auto;
+}
+
+article {
+  border-bottom: 1px solid #ccc;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+iframe {
+  width: 80%;
+  height: 300px;
+  margin-left: 50px;
+}
